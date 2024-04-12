@@ -1,2 +1,2 @@
-Salut a tous
+Bonjour a tous
 Hello world
